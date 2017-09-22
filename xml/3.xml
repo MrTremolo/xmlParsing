@@ -1,0 +1,12 @@
+<root>
+  <intervals>
+    <interval>
+      <low>0 </low>
+      <high> 3</high>
+    </interval>
+    <interval>
+       <low> 9 </low>
+       <high> 20 </high>
+    </interval>
+  </intervals>
+</root>
